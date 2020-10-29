@@ -1,4 +1,3 @@
 My-value: foo
 CosmosDb:
   DatabaseName: micro
-  ContainerName: catalog
