@@ -1,6 +1,6 @@
 My-value: foo
 CosmosDb:
-  Account: "",
-  Key: "",
-  DatabaseName: "micro",
-  ContainerName: "catalog"
+  Account:
+  Key:
+  DatabaseName:
+  ContainerName:
