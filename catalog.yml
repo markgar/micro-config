@@ -1,6 +1,4 @@
 My-value: foo
 CosmosDb:
-  Account: cosmosaccoung
-  Key: cosmoskey
   DatabaseName: micro
   ContainerName: catalog
